@@ -1,0 +1,2 @@
+Dataset,Model,Protected,Privileged,Unprivileged,SPD,DI,EOD,AOD,Bias Detected
+Adult,XGBoost,Gender,Male,Female,-0.1963,0.358,-0.0957,-0.0835,YES

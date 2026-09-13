@@ -1,0 +1,4 @@
+Dataset,Model,Protected,SPD,DI,EOD,AOD
+Adult,XGBoost,Gender,-0.1963,0.358,-0.0957,-0.0835
+German Credit,XGBoost,Gender,-0.0748,0.8966,-0.0667,-0.1444
+Law School,XGBoost,Gender,-0.0212,0.9768,-0.0006,-0.0203
