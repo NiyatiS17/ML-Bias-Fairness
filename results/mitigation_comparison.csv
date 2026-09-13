@@ -1,0 +1,4 @@
+Approach,Accuracy,EOD,AOD
+Baseline (XGBoost — no mitigation),87.10%,-0.0957,-0.0835
+Reweighing — Pre-Processing,86.92%,0.0812,0.0294
+Calibrated EO — Post-Processing,82.48%,-0.3282,-0.2062
