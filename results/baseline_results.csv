@@ -1,0 +1,13 @@
+Model,Dataset,Accuracy,Precision,Recall,F1,ROC-AUC
+XGBoost,Adult,87.27,76.56,67.92,71.98,92.93
+SVM,Adult,85.58,76.95,57.27,65.67,89.76
+Random Forest,Adult,85.03,71.25,63.39,67.09,89.82
+Logistic Regression,Adult,82.8,72.54,45.98,56.28,86.05
+Random Forest,German Credit,78.0,71.05,45.0,55.1,80.2
+Logistic Regression,German Credit,77.5,64.15,56.67,60.18,78.85
+SVM,German Credit,77.0,66.67,46.67,54.9,79.3
+XGBoost,German Credit,76.5,64.44,48.33,55.24,78.33
+SVM,Law School,91.25,91.54,99.5,95.35,73.96
+Logistic Regression,Law School,91.15,92.11,98.64,95.26,87.34
+Random Forest,Law School,90.75,92.31,97.89,95.02,85.56
+XGBoost,Law School,90.53,92.46,97.45,94.89,85.15
